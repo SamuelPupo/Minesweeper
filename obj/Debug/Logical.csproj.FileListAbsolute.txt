@@ -1,0 +1,31 @@
+c:\users\samuel\documents\visual studio 2015\Projects\Minesweeper\Logical\bin\Debug\Logical.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Minesweeper\Logical\bin\Debug\Logical.pdb
+c:\users\samuel\documents\visual studio 2015\Projects\Minesweeper\Logical\obj\Debug\Logical.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Minesweeper\Logical\obj\Debug\Logical.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\Minesweeper\Logical\obj\Debug\Logical.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\Projects\Minesweeper\Logical\bin\Debug\Logical.dll
+E:\UNIVERSIDAD\Projects\Minesweeper\Logical\bin\Debug\Logical.pdb
+E:\UNIVERSIDAD\Projects\Minesweeper\Logical\obj\Debug\Logical.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\Projects\Minesweeper\Logical\obj\Debug\Logical.dll
+E:\UNIVERSIDAD\Projects\Minesweeper\Logical\obj\Debug\Logical.pdb
+C:\Users\samue\Documents\My Projects\Minesweeper\Logical\bin\Debug\Logical.dll
+C:\Users\samue\Documents\My Projects\Minesweeper\Logical\bin\Debug\Logical.pdb
+C:\Users\samue\Documents\My Projects\Minesweeper\Logical\obj\Debug\Logical.csprojResolveAssemblyReference.cache
+C:\Users\samue\Documents\My Projects\Minesweeper\Logical\obj\Debug\Logical.dll
+C:\Users\samue\Documents\My Projects\Minesweeper\Logical\obj\Debug\Logical.pdb
+E:\Minesweeper\Logical\bin\Debug\Logical.dll
+E:\Minesweeper\Logical\bin\Debug\Logical.pdb
+E:\Minesweeper\Logical\obj\Debug\Logical.csprojResolveAssemblyReference.cache
+E:\Minesweeper\Logical\obj\Debug\Logical.dll
+E:\Minesweeper\Logical\obj\Debug\Logical.pdb
+E:\UNIVERSIDAD\Minesweeper\Logical\bin\Debug\Logical.dll
+E:\UNIVERSIDAD\Minesweeper\Logical\bin\Debug\Logical.pdb
+E:\UNIVERSIDAD\Minesweeper\Logical\obj\Debug\Logical.dll
+E:\UNIVERSIDAD\Minesweeper\Logical\obj\Debug\Logical.pdb
+E:\UNIVERSIDAD\Minesweeper\Logical\obj\Debug\Logical.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\My Projects\Minesweeper\Logical\bin\Debug\Logical.dll
+E:\UNIVERSIDAD\My Projects\Minesweeper\Logical\bin\Debug\Logical.pdb
+E:\UNIVERSIDAD\My Projects\Minesweeper\Logical\obj\Debug\Logical.csprojAssemblyReference.cache
+E:\UNIVERSIDAD\My Projects\Minesweeper\Logical\obj\Debug\Logical.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\My Projects\Minesweeper\Logical\obj\Debug\Logical.dll
+E:\UNIVERSIDAD\My Projects\Minesweeper\Logical\obj\Debug\Logical.pdb
