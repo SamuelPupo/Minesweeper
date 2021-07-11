@@ -1,0 +1,17 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\Minesweeper\Save\obj\Debug\Save.csprojResolveAssemblyReference.cache
+C:\Users\samue\Documents\My Projects\Minesweeper\Save\bin\Debug\Save.dll
+C:\Users\samue\Documents\My Projects\Minesweeper\Save\bin\Debug\Save.pdb
+C:\Users\samue\Documents\My Projects\Minesweeper\Save\obj\Debug\Save.csprojResolveAssemblyReference.cache
+C:\Users\samue\Documents\My Projects\Minesweeper\Save\obj\Debug\Save.dll
+C:\Users\samue\Documents\My Projects\Minesweeper\Save\obj\Debug\Save.pdb
+E:\UNIVERSIDAD\Minesweeper\Save\bin\Debug\Save.dll
+E:\UNIVERSIDAD\Minesweeper\Save\bin\Debug\Save.pdb
+E:\UNIVERSIDAD\Minesweeper\Save\obj\Debug\Save.dll
+E:\UNIVERSIDAD\Minesweeper\Save\obj\Debug\Save.pdb
+E:\UNIVERSIDAD\Minesweeper\Save\obj\Debug\Save.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\My Projects\Minesweeper\Save\bin\Debug\Save.dll
+E:\UNIVERSIDAD\My Projects\Minesweeper\Save\bin\Debug\Save.pdb
+E:\UNIVERSIDAD\My Projects\Minesweeper\Save\obj\Debug\Save.csprojAssemblyReference.cache
+E:\UNIVERSIDAD\My Projects\Minesweeper\Save\obj\Debug\Save.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\My Projects\Minesweeper\Save\obj\Debug\Save.dll
+E:\UNIVERSIDAD\My Projects\Minesweeper\Save\obj\Debug\Save.pdb
